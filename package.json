@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo_con_javascript",
+  "version": "1.0.0",
+  "description": "Proyecto del curso de asincronismo usando callbacks",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grigerlord/asincronismo_con_javascript.git"
+  },
+  "keywords": [
+    "callback",
+    "promise",
+    "async"
+  ],
+  "author": "griger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grigerlord/asincronismo_con_javascript/issues"
+  },
+  "homepage": "https://github.com/Grigerlord/asincronismo_con_javascript#readme"
+}
