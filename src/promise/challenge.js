@@ -19,4 +19,4 @@ fetchData(API)
     .then(data => {
         console.log(data.info)
     })
-    .catch(err => console.log('Oye que mal, hay un error ' + err))
+    .catch(err => console.log('Oye que mal, hay un error. ' + err))
